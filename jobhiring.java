@@ -1,4 +1,4 @@
-package real_estate_app;
+package job_recruitment_app;
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
 
